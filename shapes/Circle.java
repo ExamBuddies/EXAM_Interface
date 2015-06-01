@@ -1,3 +1,4 @@
+package shapes;
 // Represents circular shapes.
 public class Circle implements Shape {
 	private double radius;

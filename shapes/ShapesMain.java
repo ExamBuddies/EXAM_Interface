@@ -1,4 +1,4 @@
-package Shapes;
+package shapes;
 // Demonstrates shape classes.
 public class ShapesMain {
 	public static void main(String[] args) {

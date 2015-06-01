@@ -1,3 +1,4 @@
+package shapes;
 // Represents rectangular shapes.
 public class Rectangle implements Shape {
 	private double width;
